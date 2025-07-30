@@ -100,9 +100,9 @@
       </samp>
   </summary>
   <br>
-    Em 2024, comecei minha jornada de transição de carreira, buscando um caminho mais alinhado com minha curiosidade por tecnologia e inovação.  
-    Desde então, venho estudando com foco em desenvolvimento front-end e análise de dados, aplicando meus conhecimentos em projetos pessoais e acadêmicos.  
-    Meu objetivo é continuar evoluindo como profissional, contribuindo com soluções criativas e eficientes.
+    Desde 2024, venho explorando com dedicação o universo da tecnologia e inovação.
+    Tenho focado meus estudos em desenvolvimento front-end e análise de dados, aplicando os conhecimentos adquiridos em projetos pessoais e acadêmicos.
+    Meu objetivo é seguir evoluindo como profissional, contribuindo com soluções criativas e eficientes.
   </details>
 </details>
 <br><br>
