@@ -45,34 +45,65 @@
   
   <br>
   
-# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+# <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="29" width="29"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 - 💬 Ask me about anything and everything!
 - 🔭 I am currently looking for an opportunity in the tech industry!
 - ⚡ Fun fact: I enjoy coding, chatting with curious minds, and turning coffee into creative ideas.
-- ☎️ [How to reach me »](#-contact-me)
+- ☎️ How to reach me:
 
+  <p align="center">
+  <a href="abramovitor@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/E--mail-800020?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/vitor-b-abramo/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-800020?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
-##
-🛠 Tech Stack: <br><br>
+## 🛠 Tech Stack:
+
+### 👅 Languages:
+<p>
+  <img src="https://img.shields.io/badge/HTML5-800020?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-800020?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-800020?style=for-the-badge&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-800020?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-800020?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+### 🧰 Tools:
+<p>
+  <img src="https://img.shields.io/badge/Git-800020?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-800020?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+### ⚙️ Frameworks, Platforms and Libraries: <br>
+
+  <br><br>
+  
+## 🎖️ Github Stats: 
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=4br4m0&theme=2077" width="58%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4br4m0&layout=compact&theme=radical&hide_border=true" width="40%">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=4br4m0&theme=radical&hide_border=true" width="50%">
+  <img src="https://github-readme-stats.vercel.app/api?username=4br4m0&show_icons=true&theme=radical&hide_border=true" width="48%">
+</div>
 
   <br>
-  
-##
-🎖️ Github Stats: <br><br>
-![Profile details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=4br4m0&theme=2077)
 
+##
+<details>  
+  <summary>
+      <samp>
+        <b>🚀 4br4m0's Journey:</b>
+      </samp>
+  </summary>
   <br>
-  
-##
-📞 Contact me: <br><br>
-
-![Static Badge](https://img.shields.io/badge/Email-800020?logo=gmail&logoColor=white&link=mailto%3Avitor%40email.com)
-![Static Badge](https://img.shields.io/badge/Discord-800020?logo=discord&logoColor=white&link=https%3A%2F%2Fdiscord.gg%2FghbYJcr5BQ)
-![Static Badge](https://img.shields.io/badge/Linkedin-800020?logo=inspire&logoColor=white&link=www.linkedin.com%2Fin%2Fvitor-b-abramo)
-![Static Badge](https://img.shields.io/badge/Github-800020?logo=github&logoColor=white&link=https%3A%2F%2Fgithub.com%2F4br4m0)
-
-
-  
+    Em 2024, comecei minha jornada de transição de carreira, buscando um caminho mais alinhado com minha curiosidade por tecnologia e inovação.  
+    Desde então, venho estudando com foco em desenvolvimento front-end e análise de dados, aplicando meus conhecimentos em projetos pessoais e acadêmicos.  
+    Meu objetivo é continuar evoluindo como profissional, contribuindo com soluções criativas e eficientes.
+  </details>
 </details>
 <br><br>
 
@@ -90,23 +121,6 @@
 - https://readme-typing-svg.demolab.com/demo/?font=Libre+Baskerville&pause=750&color=800020&width=550&lines=Be+welcome!;I+am+from+Brasil;I%27m+a+student+of+systems+analysis+and+development
 - color: #800020
 
--->
+- queria adicinar também (além da cobrinha que come os comits) - https://github.com/yoshi389111/github-profile-3d-contrib
 
-
-
-
-
-
-
-<!--
-**4br4m0/4br4m0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- ⚡ Fun fact: ...
 -->
