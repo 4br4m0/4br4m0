@@ -12,7 +12,7 @@ e pós-graduando em **Data Analytics e IA Aplicada a Negócios**.
 |---|---|---|
 | [idp-llm](https://github.com/4br4m0/idp-llm) | Extração inteligente de dados de documentos com LLM — evolução de trabalho apresentado no 3º Summit UMC (Inovação, 2025) | Python · API de LLM · AWS S3 |
 | [analise-sql-dados-publicos](https://github.com/4br4m0/analise-sql-dados-publicos) | Análise de um dataset público com SQL e Python, com perguntas de negócio e conclusões | SQL · Python · Pandas |
-| [qa-plano-de-testes](https://github.com/4br4m0/qa-plano-de-testes) | Plano de testes, casos de teste e reporte de bugs de uma aplicação real | QA manual · Gherkin básico |
+| [QA-plano-de-testes](https://github.com/4br4m0/qa-plano-de-testes) | Plano de testes, casos de teste e reporte de bugs de uma aplicação real | QA manual · Gherkin básico |
 
 ## 🛠 Stack
 
